@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="groupListArray">
+        <item>KT 101</item>
+        <item>KT 102</item>
+        <item>KT 103i</item>
+        <item>KT 111</item>
+        <item>KT 112i</item>
+        <item>KT 172i</item>
+        <item>KT 181</item>
+        <item>KT 182</item>
+        <item>KT 183</item>
+        <item>KT 191</item>
+        <item>KT 192</item>
+        <item>KT 193</item>
+    </string-array>
+    <string-array name="groupListValues">
+        <item>kt_101</item>
+        <item>kt_102</item>
+        <item>kt_103i</item>
+        <item>kt_111</item>
+        <item>kt_112i</item>
+        <item>kt_172i</item>
+        <item>kt_181</item>
+        <item>kt_182</item>
+        <item>kt_183</item>
+        <item>kt_191</item>
+        <item>kt_192</item>
+        <item>kt_193</item>
+    </string-array>
+
+</resources>

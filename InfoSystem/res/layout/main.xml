@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/schedule_button"
+        style="@style/defaultButton"
+        android:layout_marginTop="10dp"
+        android:text="@string/schedule" />
+
+    <Button
+        android:id="@+id/teacher_schedule_button"
+        style="@style/defaultButton"
+        android:text="@string/teacher_schedule" />
+
+    <Button
+        android:id="@+id/map_button"
+        style="@style/defaultButton"
+        android:text="@string/map" />
+
+    <Button
+        android:id="@+id/chat_button"
+        style="@style/defaultButton"
+        android:layout_marginBottom="10dp"
+        android:text="@string/chat" />
+
+    <Button
+        android:id="@+id/show_preferences"
+        style="@style/defaultButton"
+        android:layout_margin="5dp"
+        android:text="@string/show_preferences" />
+
+</LinearLayout>

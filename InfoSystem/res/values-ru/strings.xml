@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="schedule">Schedule</string>
+    <string name="teacher_schedule">Teacher Schedule</string>
+    <string name="map">Map</string>
+    <string name="chat">Chat</string>
+    <string name="back">Go Back</string>
+    <string name="app_name">Info System</string>
+    <string name="choose_group">Your Group</string>
+    <string name="kt_101">KT 101</string>
+    <string name="kt_102">KT 102</string>
+    <string name="kt_103i">KT 103i</string>
+    <string name="kt_111">KT 111</string>
+    <string name="kt_112i">KT 112i</string>
+    <string name="kt_172i">KT 172i</string>
+    <string name="kt_181">KT 181</string>
+    <string name="kt_182">KT 182</string>
+    <string name="kt_183">KT 183</string>
+    <string name="kt_191">KT 191</string>
+    <string name="kt_192">KT 192</string>
+    <string name="kt_193">KT 193</string>
+    <string name="kt_194i">KT 194i</string>
+    <string name="edit_preferences">Edit Preferences</string>
+    <string name="show_preferences">Show Preferences</string>
+    <string name="checkbox_preference">Checkbox Preference</string>
+    <string name="edittext_summary">This allows you to enter a string</string>
+    <string name="edittext">EditText Preference</string>
+    <string name="choose_group_summary">Choose schedule for what group to show by default</string>
+
+</resources>

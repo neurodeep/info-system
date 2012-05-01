@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:defaultValue="Name"
+        android:key="firstNameKey"
+        android:summary="@string/first_name_summary"
+        android:title="@string/first_name" />
+    <EditTextPreference
+        android:defaultValue="Surname"
+        android:key="lastNameKey"
+        android:summary="@string/last_name_summary"
+        android:title="@string/last_name" />
+
+    <ListPreference
+        android:entries="@array/groupListArray"
+        android:entryValues="@array/groupListValues"
+        android:key="groupListKey"
+        android:summary="@string/choose_group_summary"
+        android:title="@string/choose_group" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="offsetWeekKey"
+        android:summary="@string/offset_week_summary"
+        android:title="@string/offset_week" />
+
+</PreferenceScreen>
